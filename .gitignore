@@ -1,0 +1,6 @@
+# Exclude the following folders from commits
+OpenDSU\ For\ Data\ Sharing/temp/
+OpenDSU\ Technical\ Overview\/temp/
+OpenDSU\ Keys\ Managment/temp/
+OpenDSU\ for\ DTEs/temp/
+
