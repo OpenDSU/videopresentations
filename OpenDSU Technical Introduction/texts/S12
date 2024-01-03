@@ -1,0 +1,4 @@
+Here, we explain the role of Bricks Storage, which is essentially a web service dedicated to storing and retrieving bricks.
+Once a brick is created, it becomes read-only and is identified by a HASH. In this system, a DSU is saved as a collection of bricks. This saving process begins with a BrickMap, which acts as a reference point, linking to all other bricks that comprise the DSU.
+When there's a need to load a DSU, the OpenDSU SDK initially loads the first brick, the BrickMap. Then, when a file is required, it proceeds to load the rest of the bricks that make up the DSU based on the information in the BrickMap. This loading is done in a lazy manner, meaning on-demand, allowing for efficient loading of the DSU in various situations.
+

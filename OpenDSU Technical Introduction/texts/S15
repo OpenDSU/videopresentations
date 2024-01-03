@@ -1,0 +1,5 @@
+The OpenDSU architecture, designed with microservices, is flexible and well-suited for a wide range of applications. It especially supports Enterprise Wallets for secure key storage, and we have extensive experience in implementing integrations with existing enterprise systems.
+OpenDSU offers a variety of APIs that are adaptable and customizable for distinct use cases. Our core microservices include Anchoring APIs and Bricking APIs, both of which can be efficiently sharded by BDNS, enhancing the system's reliability. For the secure processing of data, we utilize Cloud Enclaves.
+In terms of storage, OpenDSU not only covers traditional data storage but also extends its capabilities through Cloud Enclaves. This integration includes proper Key Management Systems, ensuring enhanced security and effective management of cryptographic keys.
+
+

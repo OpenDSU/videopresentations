@@ -1,0 +1,16 @@
+Most blockchain projects focus on on-chain issues like consensus mechanisms and transaction speed. However, storing data on-chain is often not optimal for enterprise use cases due to privacy constraints and regulatory considerations like GDPR. This is where OpenDSU steps in as a game-changer.
+OpenDSU offers a robust and secure data-sharing mechanism between organizations, ensuring that sensitive data is transmitted safely and efficiently.
+Rooted in strong cryptography, OpenDSU provides decentralized access control, enhancing data security and user autonomy.
+Its programming model is agnostic to the ledger type, allowing for greater application development and deployment flexibility.
+OpenDSU enables the implementation of data retention policies, which are crucial for compliance and data management.
+It supports the creation of interoperable wallets across various use cases, facilitating seamless integration and user experience.
+OpenDSU is a unified technology for building wallets and is good at streamlining development.
+The DSU concept can be viewed as an alternative implementation for the NFT concept. Each DSU has a transferable owner and additionally manages the data associated with the NFT - a challenge not easily solved with private or confidential data using smart contracts and requiring other technologies. The DSU could be imagined as a digital twin entity with ownership tracking.
+OpenDSU addresses the crucial confidentiality and scalability issues plaguing most blockchain-based systems. It is comparable to Zero-Knowledge Proofs (ZKP) or Level 2 scalability solutions but uses only basic cryptography (symmetric and asymmetric encryption, avoiding ZKP). It is possible to include ZKP proofs in the content of the DSUs. Still, in general, the DSUs make it unnecessary because the evidence of existence and the hash of data is sufficient, and read-only sharing is always required in serious cases using ZKP. OpenDSU's approach is easier to comprehend compared to more complex alternatives.
+OpenDSU delivers excellent performance and scalability and can work with multiple blockchain systems in parallel, making it suitable for projects requiring efficient data management.
+Lastly, OpenDSU proposes the Blockchain Domain Naming System (BDNS) to facilitate data sharing between independent systems, further enhancing its capabilities and applicability in diverse scenarios.
+In summary, OpenDSU stands out as a comprehensive solution that addresses the limitations of on-chain data storage in blockchain projects, especially in enterprise settings. Its emphasis on security, scalability, and ease of use positions it as a preferred choice for modern blockchain applications.
+
+
+
+

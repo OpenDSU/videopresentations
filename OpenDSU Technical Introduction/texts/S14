@@ -1,0 +1,5 @@
+In this slide, we begin to introduce the architecture of OpenDSU. However, this is merely an overview. For a deeper understanding and to start using OpenDSU in real projects, we recommend visiting the OpenDSU.com website or contacting Axiologic for training or consultancy.
+The architecture of OpenDSU is layered, designed to be blockchain agnostic, meaning it can utilize any blockchain system. This flexibility ensures integrity and traceability in the data. The concept of hierarchical blockchains is employed to increase security, recognizing that no single solution fits all needs.
+A key feature of OpenDSU is the emphasis on off-chain data and computation integrity. This approach extends to the use of off-chain smart contracts, allowing for a use case-specific model. Each layer and component of OpenDSU is crafted to provide robust, flexible solutions tailored to specific project requirements.
+
+

@@ -1,0 +1,11 @@
+In the structure of a Self-Sovereign Identifier (SSI), each part plays a specific role:
+1. The first part, indicated by "ssi," confirms that the key is a Self-Sovereign Identifier.
+2. The second part, labeled as "type," specifies the complementary types of KeySSI, categorizing its specific function or use. There are many types, the most common beeing seed, sread, sza as we will explain  later.
+3. The third part, "Ledger Domain," is crucial as it denotes the BDNS domain for a ledger or blockchain. This part identifies which specific blockchain or ledger the KeySSI is associated with.
+4. Following this, the fourth part consists of "Type Specific Substrings." These substrings are essential for security, containing a significant number of random bits to ensure the KeySSI's uniqueness and security.
+5. The fifth part, known as the "Control Substring," is used by anchoring services. It plays a critical role in validating requests for updating the version of the anchored DSU. The algorithm employed for this verification varies depending on the KeySSI type. Usually is a public key.
+6. The sixth part, "vn," stands for the version number of the KeySSI type. It's important to differentiate this from the number of versions of DSUs as each DSu instance could have multiple versions. This number is more a version of the protocol.
+7. Finally, the seventh part, "hint," is an optional component that provides subtype-specific information, further detailing the KeySSI.
+To illustrate these parts, consider these examples:
+- In "ssi:seed:default:7Px…::v0," each section from 'ssi' to 'v0' corresponds to the parts mentioned above.
+- Similarly, "ssi:sza:default:e064…:f097f6…:v0" follows the same structural pattern, with each segment representing a specific aspect of the KeySSI.

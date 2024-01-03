@@ -1,0 +1,5 @@
+The diagram is a zoomed-in view of the previously described enterprise blockchain network, offering a detailed look at the organizational level, encompassing the same eight major components. Each organization within this network maintains its own System of Records, such as application servers or ERPs like SAP, tailored to their specific operational needs.
+The diagram shows the implementation of User or Enterprise Wallets within each organization, leveraging the security of cloud enclaves for managing transactions and interactions on the blockchain.
+The slide further emphasizes the role of Message Queues in facilitating secure communication between partners, essential for collaboration and data exchange across the network. There is an MQ owned by each company, but the system interacts with MQs from other partners.
+Central to the diagram is the inclusion of a blockchain node controlled by each organization. This node is pivotal for maintaining the integrity and security of the network, ensuring that each entity has a direct and secure connection to the blockchain, thus enhancing the overall security and efficiency of the system.
+

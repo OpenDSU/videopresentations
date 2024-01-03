@@ -1,0 +1,18 @@
+OpenDSU introduces a suite of powerful and reusable concepts that are reshaping the development of blockchain applications, particularly within the enterprise sector. Its innovative features extend beyond traditional blockchain applications, offering broader utility for various blockchain-based solutions.
+Central to OpenDSU is the “near-chain” layer. This unique concept aims to bring similar properties to stored data as found in on-chain data (data stored in a blockchain) while remaining off-chain, thus creating a hybrid space that benefits from both worlds. It encompasses OpenDSU's methods for Data Anchoring and Data banking, enabling blockchain applications to manage data efficiently while leveraging blockchain's inherent trust and security mechanisms. OpenDSU introduces the concept of micro-ledgers and nano-ledgers as methods of attributing on-chain properties to off-chain data.
+OpenDSU excels in providing advanced key management and data-sharing capabilities. This includes sophisticated encryption methods and integrating KeySSI (Key Self-Sovereign Identity) and DSU (Data Sharing Unit) concepts. Such an approach ensures secure and efficient data sharing, which is crucial for enterprise-level applications.
+Identity verification is a vital component in blockchain applications, and OpenDSU addresses this by implementing decentralized Identities (DIDs). DIDs serve as digital identities for individuals and companies, enhancing transaction security and authenticity. Additionally, OpenDSU uses KeySSI to identify data (DSUs), further streamlining data management and verification.
+OpenDSU incorporates W3C Verifiable Credentials to augment trust and authenticity within the ecosystem. Moreover, it offers integrated messaging services between DIDs, facilitating effective and secure communication, a feature particularly valuable in enterprise environments.
+OpenDSU complements traditional databases, integrating capabilities such as data deletion, which are not feasible on conventional blockchains.
+In essence, OpenDSU serves as a versatile framework for blockchain applications, especially in enterprise settings. Its blend of near-chain technology, robust identity verification, advanced key management, and integrated communication tools positions OpenDSU as a leading choice for businesses seeking to harness the power of blockchain while maintaining flexibility and efficiency in data sharing and sensitive data management.
+
+
+
+
+
+
+
+
+
+
+

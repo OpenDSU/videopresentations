@@ -1,0 +1,19 @@
+Today, I will discuss an innovative technological endeavour at the forefront of building Digital Trust Ecosystems: OpenDSU. This initiative represents a significant leap forward in our journey towards a more secure, transparent, and efficient digital world.
+At the heart of OpenDSU is the principle of blockchain technology agnosticism. This fundamental aspect ensures that OpenDSU is not confined to a single blockchain platform, allowing it to leverage the unique strengths of various blockchain systems. Such an approach fosters flexibility and broadens the scope of potential applications and collaborations.
+OpenDSU's journey began due to the EU Research Project, PrivateSky, which ran from 2015 to 2021. This project laid the groundwork for what OpenDSU is today, and its evolution is a testament to the power of sustained research and development efforts.
+The role of the open-source community in shaping OpenDSU cannot be overstated. This collaborative effort has been crucial in refining the technology and expanding its reach, paving the way for a proper data sharing and provenance standard.
+Central to OpenDSU's operation are the World Wide Web Consortium (W3C), Decentralized Identifiers (DIDs) and Verifiable Credentials. These tools are instrumental in establishing a secure and verifiable digital identity, a cornerstone of any digital trust ecosystem.
+Delving deeper into the core ideas of OpenDSU, we find self-sovereignty taking centre stage. This principle empowers individuals and organizations to control their digital identities and data completely. In line with this, OpenDSU introduces Data Sharing Units, which combine signed data and code anchored in blockchains or ledgers. This innovative approach addresses key challenges in data sharing and interoperability.  OpenDSU allows applications that are based on multiple blockchains or ledgers in a uniform way.
+Furthermore, OpenDSU ensures data validation, provenance, and integrity by anchoring this information in the blockchain. This is achieved through the KeySSI concept, which generalises W3C DIDs, further enhancing the system's robustness and versatility. It is possible to implement W3C DID types based on KeySSIs, and because OpenDSU is proposing a naming system for the blockchain, it tremendously helps the handling of DIDs.
+A pivotal aspect of OpenDSU's vision is the concept of self-sovereign applications and the development of universal smart wallets. These wallets are envisioned to be a key component in managing digital identities and transactions, offering high security and user control.
+Microledgers, or Self-Validating Data, represent another innovative feature of OpenDSU. These microledgers provide a lightweight yet secure method of managing and validating data, which is crucial in a digital trust ecosystem.
+The PharmaLedger Platform Architecture, an EU Research Project from 2020 to 2022, has adopted the OpenDSU framework as its foundational technology. Within this project, Axiologic Research has been instrumental in developing the ePI Use Case for the PharmaLedger Association. This demonstrates OpenDSU's applicability and effectiveness in real-world scenarios.
+Finally, the OpenDSU framework sets out clear rules and definitions for the standardization of using blockchains. It aims not only to standardize Smart Wallets but also to provide a technical approach to Digital Sovereignty. As a framework for building Digital Trust Ecosystems, OpenDSU represents a significant step forward in our quest for a secure, decentralized digital future.
+In conclusion, OpenDSU stands as a beacon of innovation and collaboration. It is a powerful tool in our arsenal to build Digital Trust Ecosystems, ensuring data integrity, privacy, and sovereignty in an increasingly digital world.
+
+
+
+
+
+
+
