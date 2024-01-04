@@ -1,9 +1,13 @@
 We've come to the end of this presentation, tailored for programmers and architects. For further insights, I encourage you to visit our YouTube channel, where we have additional presentations designed for business professionals and architects. These videos provide more detailed information on specific aspects of OpenDSU.
+
 The aim of this concluding slide is to highlight the advantages of OpenDSU compared to using traditional Transaction Managers. DSUs, in combination with wallets that can also be implemented using DSUs, can be envisioned as a new kind of blockchain-agnostic private transaction managers. Let's summarize the key benefits of OpenDSU.
+
 OpenDSU ensures confidentiality for both enterprises and individuals, a crucial aspect in today’s digital world.
-OpenDSU introduces new concepts like DSUs and KeySSIs, significantly simplifying programmability.
+ OpenDSU introduces new concepts like DSUs and Key S S I , significantly simplifying programmability.
 OpenDSU aims to standardize the off-chain layer and Key Management, promoting data portability in a blockchain-agnostic manner.
 OpenDSU can reduce or even eliminate access to confidential data for Service Providers, adhering to the principles of Data Minimisation.
 OpenDSU opens up scalability opportunities by reducing the blockchain to its core roles, such as timestamping and events ordering.
 Traditional Transaction Managers, in comparison, are seen as partial solutions. They can be complex and only partially address confidentiality issues. There's also the challenge of incompatible data formats between different blockchains, like Hyperledger Fabric and Quorum. Privacy becomes a concern, especially in SaaS models or when dealing with personal data, like patient information. In such cases, hosting servers transform into powerful intermediaries, and privacy is compromised.
 In contrast, DSUs offer an elegant way to segregate data while maximizing the security of data sharing, addressing significant scalability and interoperability challenges that are inherent in database-centric alternatives.
+
+
