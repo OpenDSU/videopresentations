@@ -11,7 +11,7 @@
 #ffmpeg -loop 1 -i ./slides/S1.png  -vf "scale=960:540" -c:v libaom-av1 -crf 0 -t 93 -r 24 -pix_fmt yuva444p -b:v 4000k ./video/S1.mp4
 #ffmpeg -loop 1 -i ./slides/S2.png  -vf "scale=960:540" -c:v libaom-av1 -crf 0 -t 123 -r 24 -pix_fmt yuva444p -b:v 4000k ./video/S2.mp4
 #ffmpeg -loop 1 -i ./slides/S3.png  -vf "scale=960:540" -c:v libaom-av1 -crf 0 -t 132 -r 24 -pix_fmt yuva444p -b:v 4000k ./video/S3.mp4
-ffmpeg -loop 1 -i ./slides/S4.png  -vf "scale=960:540" -c:v libaom-av1 -crf 0 -t 130 -r 24 -pix_fmt yuva444p -b:v 4000k ./video/S4.mp4
+#ffmpeg -loop 1 -i ./slides/S4.png  -vf "scale=960:540" -c:v libaom-av1 -crf 0 -t 130 -r 24 -pix_fmt yuva444p -b:v 4000k ./video/S4.mp4
 #ffmpeg -loop 1 -i ./slides/S5.png  -vf "scale=960:540" -c:v libaom-av1 -crf 0 -t 188 -r 24 -pix_fmt yuva444p -b:v 4000k ./video/S5.mp4
 #ffmpeg -loop 1 -i ./slides/S6.png  -vf "scale=960:540" -c:v libaom-av1 -crf 0 -t 140 -r 24 -pix_fmt yuva444p -b:v 4000k ./video/S6.mp4
 #ffmpeg -loop 1 -i ./slides/S7.png  -vf "scale=960:540" -c:v libaom-av1 -crf 0 -t 86 -r 24 -pix_fmt yuva444p -b:v 4000k ./video/S7.mp4
