@@ -23,6 +23,6 @@ ffmpeg -f concat -safe 0 -i ./files -c copy ../temp/allsound.mp3
 cd ../video
 ffmpeg -f concat -safe 0 -i ./files -c copy ../temp/allvideo.mp4
 cd ..
-ffmpeg -i ./temp/allsound.mp3 -i ./temp/allvideo.mp4 -c:v copy -c:a aac ./output/OpenDSU-EPCIS.mp4
+ffmpeg -i ./temp/allsound.mp3 -i ./temp/allvideo.mp4 -c:v copy -c:a aac ./output/OpenDSU-E P C I S.mp4
 
 
